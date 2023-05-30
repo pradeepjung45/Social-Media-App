@@ -1,1 +1,1 @@
-Link to the template files: https://github.com/tomitokko/django-social-media-template
+The superuser has a username=admin and password=PRAdeep4150##$
